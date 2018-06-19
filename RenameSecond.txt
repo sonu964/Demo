@@ -3,6 +3,12 @@ sure. are you dump file ?
 yes, I am
 hi
 helloooooooo
+ Sample2
 Byejjjjjjjjjjjjjjjjjjjjjjjjjjjj
 
 smaple2
+=======
+Bye
+ Sample1
+this is from sample1
+>>>>>> master
