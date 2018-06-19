@@ -4,5 +4,5 @@ yes, I am
 hi
 helloooooooo
 Bye
-
-smaple2
+ Sample1
+this is from sample1
